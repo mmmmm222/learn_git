@@ -1,5 +1,8 @@
 #ifndef DIO_REGISTER_H_
 #define DIO_REGISTER_H_
+/*
+***********************************************
+*/
 
 
 #define PORTA			*((volatile u8*)0x3b)
